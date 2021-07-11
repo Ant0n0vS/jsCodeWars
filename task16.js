@@ -1,4 +1,5 @@
 //Product of consecutive Fib numbers (5 kyu)
+//https://www.codewars.com/kata/5541f58a944b85ce6d00006a
 
 function productFib(prod){
     let n = 1, arr = [];
