@@ -1,9 +1,5 @@
 //What's a Perfect Power anyway? (5 kyu)
-/*
-Your task is to check wheter a given integer is a perfect power. If it is a 
-perfect power, return a pair m and k with m^k = n as a proof. Otherwise 
-return Nothing, Nil, null, NULL, None or your language's equivalent.
-*/
+//https://www.codewars.com/kata/54d4c8b08776e4ad92000835
 
 var isPP = function(n){
     let arr = [];
